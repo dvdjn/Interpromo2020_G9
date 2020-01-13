@@ -1,0 +1,1202 @@
+§icao§manufacturer§model§wake
+0§A1§Douglas§AD-1 / A-1 / EA-1 Skyraider§M
+1§A10§Fairchild§A-10 Thunderbolt 2§M
+2§A109§Agusta / AgustaWestland§A-109§L
+3§A119§Agusta / AgustaWestland§A-119 Koala§L
+4§A124§Antonow / Antonov§An-124 Ruslan§H
+5§A129§Agusta / AgustaWestland§A-129 Mangusta§L
+6§A139§Agusta / AgustaWestland§AB139 / AW139§L
+7§A140§HESA§IRAN-140 Faraz§M
+8§A148§Antonow / Antonov§An-148§M
+9§A20§Douglas§A-20 Havoc§M
+10§A225§Antonow / Antonov§An-225 Mriya§H
+11§A270§Ibis§Ae-270 Ibis§L
+12§A2RT§Kazan§Ansat 2RT§L
+13§A3§Douglas§A-3 Skywarrior§M
+14§A306§Airbus§A300B4-600 /C4-600 / F4-600§H
+15§A30B§Airbus§A300B2 / B4 / C4 / F4§H
+16§A310§Airbus§A310 / CC-150 Polaris§H
+17§A318§Airbus§A318§M
+18§A319§Airbus§A319§M
+19§A320§Airbus§A320§M
+20§A321§Airbus§A321§M
+21§A332§Airbus§A330-200§H
+22§A333§Airbus§A330-300§H
+23§A342§Airbus§A340-200§H
+24§A343§Airbus§A340-300§H
+25§A345§Airbus§A340-500§H
+26§A346§Airbus§A340-600§H
+27§A358§Airbus§A350-800§H
+28§A359§Airbus§A350-900§H
+29§A37§Cessna§318 / A-37 Dragonfly§L
+30§A388§Airbus§A380-800§H
+31§A3ST§Airbus§A300-600ST Beluga§H
+32§A4§Douglas§A-4 Skyhawk§M
+33§A50§Beriev§A-50§H
+34§A500§Adam§A-500§L
+35§A504§AVRO§504§L
+36§A6§Grumman§EA-6 Prowler§M
+37§A660§Thrush§S-2R-T660 Turbo Thrush§L
+38§A7§LTV§A-7 Corsair 2§M
+39§A700§Adam§A-700 AdamJet§L
+40§A743§Antonow / Antonov§An-74-300§M
+41§A748§Hawker-Siddeley§HS-748 Andover§M
+42§A9§North American Rockwell§A-9 Quail Commander§L
+43§AA1§American§AA-1§L
+44§AA5§AGAC§AG-5 Tiger§L
+45§AB11§Aero Boero§AB-115§L
+46§AB15§Aero Boero§AB-150§L
+47§AB18§Aero Boero§AB-180§L
+48§AB95§Aero Boero§AB-95§L
+49§AC11§Commander§Commander 115§L
+50§AC50§Rockwell§500 Shrike Commander§L
+51§AC56§Aero Commander§560 Commander 560§L
+52§AC68§Aero Commander§680F Commander§L
+53§AC6L§North American Rockwell§Grand Commander§L
+54§AC72§Aero Commander§Alti Cruiser§L
+55§AC80§North American Rockwell§680V / 680W / 681 Turbo Commander§L
+56§AC90§Rockwell§690 Turbo Commander 690§L
+57§AC95§American§Jetprop Commander 980 / 1000§L
+58§ACAR§Auster§J-5 Autocar§L
+59§ACSR§Victa / AESL§Aircruiser§L
+60§ADVE§Auster§J-5 Adventurer§L
+61§AE45§LET§Super Aero 145§L
+62§AEST§Piper§PA-60 Aerostar§L
+63§AIGT§Auster§J-5 Aiglet Trainer§L
+64§AIRD§Beagle§A-109 Airedale§L
+65§AJET§Dassault-Breguet§Alpha Jet§M
+66§ALH§HAL§Dhruv§L
+67§ALIZ§Breguet§1050 Aliz§M
+68§ALO2§Sud-Est§SE-3130 Alouette 2§L
+69§ALO3§Sud§SA-319 Alouette 3§L
+70§ALPI§Auster§J-5 Alpine§L
+71§AM3§Atlas§AM-3 Bosbok§L
+72§AMX§AMX§AMX§M
+73§AN12§Antonow / Antonov§An-12§M
+74§AN2§Nanchang§Y-5§L
+75§AN22§Antonow / Antonov§An-22 Antheus§H
+76§AN24§Antonow / Antonov§An-24§M
+77§AN26§Antonow / Antonov§An-26§M
+78§AN28§PZL Mielec§M-28 Bryza§L
+79§AN3§Antonow / Antonov§An-3§L
+80§AN30§Antonow / Antonov§An-30§M
+81§AN32§Antonow / Antonov§An-32§M
+82§AN38§Antonow / Antonov§An-38§M
+83§AN70§Antonow / Antonov§An-70§M
+84§AN72§Antonow / Antonov§An-74§M
+85§AN8§Antonow / Antonov§An-8§M
+86§ANSN§AVRO§652 Anson§L
+87§ANST§Kazan§Ansat§L
+88§AR11§HAL§HUL-26 Pushpak§L
+89§AR15§Aeronca§15 Sedan§L
+90§AR79§Arado§Ar-79§L
+91§ARON§General Avia§F-220 Airone§L
+92§ARVA§IAI§Arava§L
+93§AS02§FFA§AS-202 Bravo§L
+94§AS2T§FFA§AS-202-32TP Turbine Bravo§L
+95§AS32§Airbus (Helicopters)§H225§M
+96§AS3B§Eurocopter§AS-532 Mk2 Cougar§M
+97§AS50§Eurocopter§AS-550 Fennec§L
+98§AS55§Eurocopter§AS-555 Fennec§L
+99§AS65§HAMC / Harbin§Z-9 Haitun§L
+100§ASTR§IAI§Gulfstream G100§M
+101§AT3§AIDC§AT-3 Tzu-Chung§M
+102§AT3P§Air Tractor§AT-300 / AT-301 / AT-401§L
+103§AT3T§Air Tractor§AT-302 / AT-400 / AT-402§L
+104§AT43§ATR§ATR 42-200 / 42-300§M
+105§AT44§ATR§ATR-42-400§M
+106§AT45§ATR§ATR-42-500§M
+107§AT5P§Air Tractor§AT-501§L
+108§AT5T§Air Tractor§AT-502 / AT-503§L
+109§AT6T§Air Tractor§AT-602§L
+110§AT72§ATR§ATR 72§M
+111§AT8T§Air Tractor§AT-802§L
+112§ATLA§Dassault-Breguet§1150 Atlantic / Atlantique 2§M
+113§ATP§BAe§ATP§M
+114§AU11§Beagle§E-3 Auster AOP11§L
+115§AUJ2§Auster§J-2 Arrow§L
+116§AUJ4§Auster§J-4 Archer§L
+117§AUS3§Taylorcraft§Auster 3§L
+118§AUS4§Taylorcraft§Auster 4§L
+119§AUS5§Taylorcraft§Auster 5 Alpha§L
+120§AUS6§Taylorcraft§Auster AOP6§L
+121§AUS7§Auster§Auster T7§L
+122§AUS9§Auster§Auster AOP9§L
+123§AVIN§AVRO§594 / 616 Avian§L
+124§B06§Bell Helicopter§JetRanger / OH-58 Kiowa§L
+125§B06T§Bell Helicopter§206LT TwinRanger§L
+126§B1§Rockwell§B-1 Lancer§H
+127§B103§Beriev§Be-103 Bekas§L
+128§B105§MBB§BO-105§L
+129§B14A§Bellanca§14 Cruisair / Cruisemaster / Junior§L
+130§B14C§Bellanca§14 Bellanca 260A / B / C§L
+131§B17§Boeing§B-17 Flying Fortress§M
+132§B18T§Beech§18 (turbine)§L
+133§B190§Beech§1900§M
+134§B2§Northrop§B-2 Spirit§H
+135§B209§Bölkow§BO-209 Monsun§L
+136§B212§Bell Helicopter§UH-1N§L
+137§B214§Bell Helicopter§214C BigLifter§M
+138§B222§Bell Helicopter§222§L
+139§B23§Douglas§B-23 / UC-67 Dragon§M
+140§B230§Bell Helicopter§230§L
+141§B24§Consolidated§B-24 Liberator§M
+142§B25§North American§B-25 Mitchell§M
+143§B26§Douglas§A-26 Invader§M
+144§B26M§Martin§B-26 Marauder§M
+145§B29§Boeing§B-29 Superfortress§M
+146§B350§Beech§300 (B300) Super King Air 350§L
+147§B36T§Beech§36 Bonanza (turbine)§L
+148§B407§Bell Helicopter§407§L
+149§B412§Bell Helicopter§CH-146 Griffon§L
+150§B427§KAI§SB-427§L
+151§B429§Bell Helicopter§429 GlobalRanger§L
+152§B430§Bell Helicopter§430§L
+153§B461§BAe§BAe-146-100§M
+154§B462§BAe§BAe-146-200§M
+155§B463§BAe§BAe-146-300§M
+156§B47G§Westland§Sioux§L
+157§B47J§Agusta / AgustaWestland§AB-47J§L
+158§B52§Boeing§B-52 Stratofortress§H
+159§B609§Bell-Agusta§BA-609§M
+160§B701§Boeing§707-100§M
+161§B703§Boeing§C-137 / KC-137§H
+162§B712§Boeing§717-200§M
+163§B720§Boeing§720§M
+164§B721§Boeing§C-22§M
+165§B722§Boeing§727-200§M
+166§B731§Boeing§737-100§M
+167§B732§Boeing§737-200§M
+168§B733§Boeing§737-300§M
+169§B734§Boeing§737-400§M
+170§B735§Boeing§737-500§M
+171§B736§Boeing§737-600§M
+172§B737§Boeing§C-40 Clipper§M
+173§B738§Boeing§737-800§M
+174§B739§Boeing§737-900§M
+175§B741§Boeing§747-100§H
+176§B742§Boeing§E-4 / VC-25§H
+177§B743§Boeing§747-300§H
+178§B744§Boeing§747-400§H
+179§B748§Boeing§747-8§H
+180§B74R§Boeing§747SR§H
+181§B74S§Boeing§747SP§H
+182§B752§Boeing§C-32§M
+183§B753§Boeing§757-300§M
+184§B762§Boeing§767-200§H
+185§B763§Boeing§767-300§H
+186§B764§Boeing§767-400§H
+187§B772§Boeing§777-200§H
+188§B773§Boeing§777-300§H
+189§B77L§Boeing§777F§H
+190§B77W§Boeing§777-300ER§H
+191§B788§Boeing§787-8 Dreamliner§H
+192§B789§Boeing§787-9 Dreamliner§H
+193§BA11§ROMBAC§Rombac 1-11 One-Eleven§M
+194§BABY§Canadian Home Rotors§Baby Belle / Safari§L
+195§BASS§Beagle§B-206§L
+196§BCAT§Grumman§F8F Bearcat§L
+197§BCS1§Bombardier§CSeries CS100§M
+198§BCS3§Bombardier§CSeries CS300§M
+199§BDOG§Scottish Aviation§Bulldog§L
+200§BE10§Beech§100 King Air§L
+201§BE12§Beriev§Be-12 Tchaika§M
+202§BE17§Beech§17 Staggerwing§L
+203§BE18§Beech§18§L
+204§BE20§Beech§200 Super King Air§L
+205§BE23§Beech§23 Sundowner§L
+206§BE24§Beech§24 Sierra§L
+207§BE30§Beech§300 Super King Air§L
+208§BE32§Beriev§Be-32§M
+209§BE33§HESA§Parastu§L
+210§BE35§Beech§35 Bonanza§L
+211§BE36§Beech§36 Bonanza§L
+212§BE40§Hawker-Beechcraft§400 Beechjet§M
+213§BE50§Beech§Seminole (U-8D/E/G)§L
+214§BE55§Beech§55 Baron§L
+215§BE58§Beech§58 Baron§L
+216§BE60§Beech§60 Duke§L
+217§BE65§Beech§65 Queen Air§L
+218§BE70§Beech§70 Queen Air§L
+219§BE76§Beech§76 Duchess§L
+220§BE77§Beech§77 Skipper§L
+221§BE80§Beech§80 Queen Air§L
+222§BE88§Beech§88 Queen Air§L
+223§BE95§Beech§95 Travel Air§L
+224§BE99§Beech§99 Airliner§L
+225§BE9L§Beech§90 King Air§L
+226§BE9T§Beech§90 (F90) King Air§L
+227§BELF§Shorts§SC-5 Belfast§M
+228§BER2§Beriev§Be-200 Altair§M
+229§BER4§Beriev§A-40 Albatross§M
+230§BFIT§Bristol§Fighter§L
+231§BK17§MBB-Kawasaki§BK-117§L
+232§BL11§Bleriot§11 / XI§L
+233§BL17§Bellanca§17 Super Viking§L
+234§BL19§Bellanca§19 Skyrocket§L
+235§BL8§American Champion§8 Super Decathlon§L
+236§BLCF§Boeing§747-400LCF Dreamlifter§H
+237§BLEN§Bristol§149 Bolingbroke§L
+238§BN2P§Britten Norman§BN-2 Islander§L
+239§BN2T§Britten Norman§BN-2T Defender 4000 / Turbine Islander§L
+240§BR14§Breguet§14 Replica§L
+241§BRB2§Brantly§B-2§L
+242§BROU§Max Holste§MH-1521 Broussard§L
+243§BSCA§Boeing§747SCA Shuttle Carrier§H
+244§BSTP§Bell Helicopter§214ST SuperTransport§M
+245§BU31§Bücker§B§L
+246§BU33§Bücker§B§L
+247§BU81§Zlin§Z-183§L
+248§BUC§Hawker-Siddeley§Buccaneer§M
+249§C02T§Cessna§402 (turbine)§L
+250§C04T§Cessna§404 (turbine)§L
+251§C06T§Cessna§206 (turbine)§L
+252§C07T§Cessna§207 (turbine)§L
+253§C1§Kawasaki§C-1§M
+254§C101§CASA§C-101 Aviojet§L
+255§C10T§Cessna§P210 (turbine)§L
+256§C119§Fairchild§C-119 Flying Boxcar§M
+257§C120§Cessna§120§L
+258§C123§Fairchild§C-123 Provider§M
+259§C125§Northrop§C-125 Raider§M
+260§C130§Lockheed§C-130 Hercules§M
+261§C133§Douglas§C-133 Cargomaster§M
+262§C135§Boeing§C-135 Stratolifter§H
+263§C140§Cessna§140§L
+264§C141§Lockheed§C-141 Starlifter§H
+265§C14T§Cessna§414 (turbine)§L
+266§C150§Cessna§A150 Aerobat§L
+267§C152§Cessna§A152 Aerobat§L
+268§C160§Transport Allianz§C-160§M
+269§C162§Cessna§162 SkyCatcher§L
+270§C17§McDonnell Douglas§C-17 Globemaster 3§H
+271§C170§Cessna§170§L
+272§C172§FMA§P-172§L
+273§C175§Cessna§175§L
+274§C177§Cessna§177§L
+275§C180§Cessna§180§L
+276§C182§Cessna§T182 Turbo Skylane§L
+277§C185§Cessna§A185 AgCarryall§L
+278§C188§FMA§A-188 AgTruck§L
+279§C190§Cessna§190§L
+280§C195§Cessna§195§L
+281§C2§Grumman§C-2 Greyhound§M
+282§C205§Cessna§205§L
+283§C206§Cessna§T206 Turbo Stationair§L
+284§C207§Cessna§T207 Turbo Stationair 7 / 8§L
+285§C208§Cessna§208 Caravan 1§L
+286§C210§Cessna§210 Centurion§L
+287§C212§CASA§C-212 Aviocar§M
+288§C21T§Cessna§421 (turbine)§L
+289§C25A§Cessna§525A Citation CJ2§L
+290§C25B§Cessna§525B Citation CJ3§L
+291§C270§Caudron§C-275 Luciole§L
+292§C27J§Aeritalia§C-27J Spartan§M
+293§C295§CASA§C-295§M
+294§C303§Cessna§T303 Crusader§L
+295§C30J§Lockheed§C-130J Hercules§M
+296§C310§Cessna§310§L
+297§C320§Cessna§320 Executive Skyknight§L
+298§C335§Cessna§335§L
+299§C336§Cessna§336 Skymaster§L
+300§C337§Cessna§337 Super Skymaster§L
+301§C340§Cessna§340§L
+302§C365§EKW / K+W§C-3605§L
+303§C402§Cessna§402§L
+304§C404§Cessna§404 Titan§L
+305§C411§Cessna§411§L
+306§C414§Cessna§414§L
+307§C421§Cessna§421 Golden Eagle§L
+308§C425§Cessna§425 Corsair§L
+309§C441§Cessna§Conquest§L
+310§C46§Curtiss§C-46 Commando§M
+311§C5§Lockheed§C-5 Galaxy§H
+312§C500§Cessna§500 Citation 1§L
+313§C501§Cessna§501 Citation 1SP§L
+314§C510§Cessna§510 Citation Mustang§L
+315§C525§Cessna§525 Citation CJ1§L
+316§C526§Cessna§526 CitationJet§L
+317§C550§Cessna§S550 Citation S2§L
+318§C551§Cessna§551 Citation 2SP§L
+319§C560§Cessna§560 Citation 5 Ultra Encore§M
+320§C56X§Cessna§560XL Citation XLS§M
+321§C650§Cessna§650 Citation 7§M
+322§C680§Cessna§680 Citation Sovereign§M
+323§C72R§Cessna§172RG Cutlass RG§L
+324§C750§Cessna§750 Citation X§M
+325§C77R§Cessna§177RG Cardinal RG§L
+326§C82§Fairchild§C-82 Packet§M
+327§C82R§Cessna§TR182 Turbo Skylane RG§L
+328§C97§Boeing§C-97 Stratofreighter§M
+329§CA19§CAC§Boomerang§L
+330§CA25§CAC§CA-25 Winjeel§L
+331§CAML§Sopwith§Camel§L
+332§CARV§Aviation Traders§ATL-98 Carvair§M
+333§CAT§Consolidated§Catalina / Canso§M
+334§CE43§Cerva§CE-43 Guepard§L
+335§CG3§Caudron§G-3§L
+336§CH1§AIDC§A-CH-1 Chung-Tsing§L
+337§CH2T§JAI§CH-2000 Sama§L
+338§CH40§Campion§402 Lancer§L
+339§CH7A§Campion§Traveler§L
+340§CH7B§American Champion§Citabria Explorer§L
+341§CH80§JAI§CH-8000 Hawk 1§L
+342§CJ6§Nanchang§CJ-6§L
+343§CKUO§AIDC§F-CK-1 Ching-Kuo§M
+344§CL2P§Canadair§CL-215§M
+345§CL2T§Canadair§CL-415§M
+346§CL30§Bombardier§BD-100 Challenger 300§M
+347§CL41§Canadair§CT-114 Tutor§L
+348§CL44§Canadair§CL-44 Forty Four§M
+349§CL4G§Canadair§CL-44-O Guppy§M
+350§CL60§Canadair§CL-600 Challenger 605§M
+351§CLB1§North American Rockwell§B-1 Snipe Commander§L
+352§CMAS§Cessna§Airmaster§L
+353§CN35§CASA§CN-235§M
+354§CNBR§BAC§Canberra§M
+355§CONI§Lockheed§Constellation / Super Constellation§M
+356§CORS§Vought-Sikorsky§F4U Corsair§M
+357§COUR§Helio§Courier§L
+358§CP10§Mudry§CAP-10§L
+359§CP13§Piel§Super Emeraude (CP-1310/1315/1330)§L
+360§CP20§Mudry§CAP-20§L
+361§CP21§Mudry§CAP-21§L
+362§CP22§CAP§CAP-222§L
+363§CP23§Mudry§CAP-230§L
+364§CP30§Piel§Emeraude§L
+365§CP32§Piel§Super Emeraude (CP-320/325/328)§L
+366§CP60§Piel§Diamant§L
+367§CP75§Piel§B§L
+368§CP80§Piel§Z§L
+369§CP90§Piel§Pinocchio§L
+370§CRES§PAC§Cresco§L
+371§CRJ1§Canadair§CL-600 Regional Jet CRJ-100§M
+372§CRJ2§Canadair§CL-600 Regional Jet CRJ-200§M
+373§CRJ7§Canadair§CL-600 Regional Jet CRJ-700§M
+374§CRJ9§Canadair§CL-600 Regional Jet CRJ-900§M
+375§CT4§PAC§CT-4 Airtrainer§L
+376§CVLP§Convair§CV-440 Metropolitan§M
+377§CVLT§Convair§CV-640§M
+378§CYGT§Hawker§Cygnet§L
+379§D11§Wassmer§D-120 Paris-Nice§L
+380§D140§Mudry§D-140 Mousquetaire§L
+381§D150§Jodel§D-150 Mascaret§L
+382§D18§Jodel§D-18§L
+383§D228§HAL§228§L
+384§D250§Robin / Apex§DR-200§L
+385§D253§Robin / Apex§DR-253 Regent§L
+386§D28D§Dornier§Do-28D Skyservant§L
+387§D28T§Dornier§128-6 Turbo Skyservant§L
+388§D328§Fairchild-Dornier§328§M
+389§D4§Beagle§D-4§L
+390§D5§Beagle§D-5 Husky§L
+391§D6§Beagle§D-6§L
+392§D7§Fokker§D-7 Replica§L
+393§D8§Fokker§D-8 Replica§L
+394§DA40§Diamond§DA-40§L
+395§DA42§Diamond§DA-42§L
+396§DA50§Diamond§DA-50§L
+397§DC10§McDonnell Douglas§KC-10 Extender§H
+398§DC2§Douglas§DC-2§M
+399§DC3§Douglas§DC-3§M
+400§DC3S§Douglas§Super DC-3§M
+401§DC3T§Basler§BT-67 Turbo 67§M
+402§DC4§Douglas§DC-4§M
+403§DC6§Douglas§DC-6§M
+404§DC7§Douglas§DC-7§M
+405§DC85§Douglas§DC-8-50§H
+406§DC86§Douglas§DC-8-60§H
+407§DC87§Douglas§DC-8-70§H
+408§DC91§McDonnell Douglas§DC-9-10§M
+409§DC92§McDonnell Douglas§DC-9-20§M
+410§DC93§McDonnell Douglas§DC-9-30§M
+411§DC94§McDonnell Douglas§DC-9-40§M
+412§DC95§McDonnell Douglas§DC-9-50§M
+413§DH2T§De Havilland Canada§DHC-2 Mk3 Turbo Beaver§L
+414§DH3T§De Havilland Canada§DHC-3 Turbo Otter§L
+415§DH60§De Havilland§DH-60 Moth§L
+416§DH80§De Havilland§DH-80 Puss Moth§L
+417§DH82§De Havilland§DH-82 Tiger Moth§L
+418§DH83§De Havilland§DH-83 Fox Moth§L
+419§DH85§De Havilland§DH-85 Leopard Moth§L
+420§DH87§De Havilland§DH-87 Hornet Moth§L
+421§DH88§De Havilland§DH-88 Comet Replica§L
+422§DH89§De Havilland§DH-89 Dragon Rapide§L
+423§DH8A§De Havilland Canada§DHC-8-100 Dash 8§M
+424§DH8B§De Havilland Canada§DHC-8-200 Dash 8§M
+425§DH8C§De Havilland Canada§DHC-8-300 Dash 8§M
+426§DH8D§De Havilland Canada§DHC-8-400 Dash 8§M
+427§DH90§De Havilland§DH-90 Dragonfly§L
+428§DH94§De Havilland§DH-94 Moth Minor§L
+429§DHA3§De Havilland Australia§DHA-3 Drover§L
+430§DHC1§De Havilland§DHC-1 Chipmunk§L
+431§DHC2§De Havilland Canada§DHC-2 Mk1 Beaver§L
+432§DHC3§De Havilland Canada§DHC-3 Otter§L
+433§DHC4§De Havilland Canada§DHC-4 Caribou§M
+434§DHC5§De Havilland Canada§DHC-5 Buffalo§M
+435§DHC6§De Havilland Canada§DHC-6 Twin Otter§L
+436§DHC7§De Havilland Canada§DHC-7 Dash 7§M
+437§DJET§Diamond§D-Jet§L
+438§DJIN§Sud§SO-1221 Djinn§L
+439§DO27§Dornier§Do-27§L
+440§DO28§Dornier§Do-28A / Do-28B§L
+441§DOVE§Hawker-Siddeley§DH-104 Dove§L
+442§DR1§Fokker§Dr-1 Replica§L
+443§DR10§Robin / Apex§Ambassadeur§L
+444§DV20§Diamond§Katana (DA-20/DV-20)§L
+445§DWD2§EKW / K+W§D-26§L
+446§E110§EMBRAER§EMB-111 Bandeirulha§L
+447§E120§EMBRAER§EMB-120 Brasilia§M
+448§E121§EMBRAER§EMB-121 Xingu§L
+449§E135§EMBRAER§EMB-135 / ERJ-140§M
+450§E145§EMBRAER§EMB-145 / ERJ-145§M
+451§E170§EMBRAER§EMB-170 / EMB-175 / ERJ-170 / ERJ-175§M
+452§E190§EMBRAER§EMB-190 / EMB-195 / ERJ-190 / ERJ-195§M
+453§E2§Northrop§E-2 Hawkeye§M
+454§E200§EXTRA§EA-200§L
+455§E230§EXTRA§EA-230§L
+456§E300§EXTRA§EA-300§L
+457§E314§EMBRAER§EMB-314 Super Tucano§L
+458§E3CF§Boeing§E-3 (CFM56) Sentry§H
+459§E3TF§Boeing§E-3 (TF33) Sentry§H
+460§E400§EXTRA§EA-400§L
+461§E45X§EMBRAER§EMB-145XR / ERJ-145XR§M
+462§E500§EXTRA§EA-500§L
+463§E50P§EMBRAER§EMB-500 Phenom 100§L
+464§E55P§EMBRAER§EMB-505 Phenom 300§L
+465§E6§Boeing§E-6 Mercury§H
+466§EA50§Eclipse§Eclipse 500§L
+467§EAGL§Christen§Eagle§L
+468§EC20§Airbus (Helicopters)§H120§
+469§EC25§Airbus (Helicopters)§H225§M
+470§EC30§Airbus (Helicopters)§H130§L
+471§EC35§Airbus (Helicopters)§H135§L
+472§EC45§Airbus (Helicopters)§H145§L
+473§EC55§Airbus (Helicopters)§H155§L
+474§EDGE§Zivko§Edge 540§L
+475§EH10§Kawasaki§KHI-01§M
+476§ELST§Pützer§Elster§L
+477§EN28§Enstrom§F-28§L
+478§EN48§Enstrom§480§L
+479§ERCO§ERCO§Ercoupe§L
+480§ETAR§Dassault§Super Etendard§M
+481§EUFI§Eurofighter§Typhoon§M
+482§EXPL§MD Helicopters§MD-902 Explorer§L
+483§F1§Mitsubishi§F-1§M
+484§F100§Fokker§100§M
+485§F104§Lockheed§F-104 Starfighter§M
+486§F106§Convair§QF-106 Delta Dart§M
+487§F111§General Dynamics§F-111§M
+488§F117§Lockheed§F-117 Nighthawk§M
+489§F14§Grumman§F-14 Tomcat§M
+490§F15§Boeing§F-15 Eagle§M
+491§F156§Benes-Mraz§K-65 Cap§L
+492§F16§Lockheed§F-16 Fighting Falcon§M
+493§F18§McDonnell Douglas§FA-18 Super Hornet§M
+494§F2§Mitsubishi§F-2§M
+495§F22§Lockheed§F-22 Raptor§M
+496§F260§SIAI-Marchetti§SF-260§L
+497§F26T§SIAI-Marchetti§SF-260TP§L
+498§F27§Fairchild-Hiller§FH-227§M
+499§F28§Fokker§F-28 Fellowship§M
+500§F2TH§Dassault§Falcon 2000§M
+501§F35§Lockheed§F-35 Lightning II§M
+502§F3F§Grumman§G-32 Replica§L
+503§F4§McDonnell§F-4 Phantom 2§M
+504§F406§Reims§F406 Vigilant§L
+505§F5§Northrop§F-5 Chung-Cheng§M
+506§F50§Fokker§50§M
+507§F60§Fokker§60§M
+508§F600§SIAI-Marchetti§SF-600 Canguro§L
+509§F70§Fokker§70§M
+510§F8§LTV§F-8 Crusader§M
+511§F86§North American§F-86 Sabre§M
+512§F8L§Aviamilano§F-8L Falco§L
+513§F900§Dassault§Myst§M
+514§F9F§Grumman§F9F Panther§L
+515§FA10§Dassault§Myst§M
+516§FA11§Fairchild§F-11 Husky§L
+517§FA20§Dassault§Myst§M
+518§FA24§Fairchild§UC-61 Forwarder§L
+519§FA50§Dassault§Myst§M
+520§FA62§Fairchild§Cornell§L
+521§FA7X§Dassault§Falcon 7X§M
+522§FALM§Miles§M-3 Falcon Major§L
+523§FANT§RFB§Fantrainer§L
+524§FC1§Chengdu§FC-1 Super 7§M
+525§FFLY§Fairey§Firefly§L
+526§FH11§Fairchild-Hiller§FH-1100§L
+527§FLAM§Dassault§Flamant§L
+528§FN33§SIAI-Marchetti§FN-333 Riviera§L
+529§FOUG§Potez§CM-175 Z§L
+530§FREL§Sud§SA-321 Super Frelon§M
+531§FU24§Fletcher§FU-24§L
+532§FURY§Hawker§Sea Fury§L
+533§FW44§Focke-Wulf§Fw-44 Stieglitz§L
+534§FW90§Focke-Wulf§Fw-190 Replica§L
+535§G109§Grob§G-109§L
+536§G115§Grob§G-115§L
+537§G120§Grob§G-120§L
+538§G140§Grob§G-140TP§L
+539§G150§IAI§Gulfstream G150§M
+540§G159§Grumman§G-159 Gulfstream 1§M
+541§G15T§Grob§G-115T Acro§L
+542§G160§Grob§G-160 Ranger§L
+543§G164§Schweizer§G-164 Ag-Cat§L
+544§G21§Grumman§G-21A Goose§L
+545§G222§Aeritalia§G-222§M
+546§G2GL§SOKO§G-2 Galeb§L
+547§G44§Grumman§G-44 Widgeon§L
+548§G46§Fiat§G-46§L
+549§G4SG§SOKO§G-4 Super Galeb§L
+550§G59§Fiat§G-59§L
+551§G64T§Schweizer§G-164 Turbo Ag-Cat§L
+552§G73§Grumman§G-73 Mallard§L
+553§G73T§Grumman§G-73T Turbo Mallard§L
+554§G96§Grumman§G-96 Trader§M
+555§GA20§Gippsland§GA-200 Fatman§L
+556§GA7§SOCATA§TB-360 Tangara§L
+557§GA8§Gippsland§GA-8 Airvan§L
+558§GALX§IAI§Gulfstream G200§M
+559§GANT§Fairey§Gannet§M
+560§GAUN§Gloster§Gauntlet§L
+561§GAZL§Sud§SA-341 / SA-342 Gazelle§L
+562§GC1§Globe§GC-1 Swift§L
+563§GEMI§Miles§M-65 Gemini§L
+564§GF20§Grob§GF-200§L
+565§GL5T§Bombardier§BD-700 Global 5000§M
+566§GLAD§Gloster§Gladiator§L
+567§GLEX§Bombardier§BD-700 Global Express§M
+568§GLF2§Gulfstream§G-1159 Gulfstream 2§M
+569§GLF3§Gulfstream§G-1159A Gulfstream 3§M
+570§GLF4§Gulfstream§G-4X Gulfstream G450§M
+571§GLF5§Gulfstream§G-5SP Gulfstream G550§M
+572§GNAT§Hawker-Siddeley§Gnat§L
+573§GSPN§Grob§G-180 SPn Utility Jet§L
+574§GY80§SOCATA§GY-80 Horizon§L
+575§H111§Heinkel§He-111§M
+576§H12T§Hiller§UH-12ET§L
+577§H2§Kaman§SH-2 Seasprite§L
+578§H25A§Hawker-Siddeley§HS-125-1§M
+579§H25B§Hawker-Beechcraft§Hawker 850§M
+580§H25C§Hawker-Beechcraft§Hawker 1000§M
+581§H269§Hughes§TH-55 Osage§L
+582§H43A§Kaman§HH-43A§L
+583§H43B§Kaman§HH-43B Huskie§L
+584§H46§Boeing Vertol§UH-46 Sea Knight§M
+585§H47§Boeing Vertol§MH-47 Chinook§M
+586§H500§MD Helicopters§MD-530§L
+587§H53§Sikorsky§S-65§M
+588§H53S§Sikorsky§MH-53E Sea Dragon§M
+589§H60§Mitsubishi§S-70 Seahawk§M
+590§H64§McDonnell Douglas§AH-64 Longbow Apache§M
+591§H66§Boeing-Sikorsky§RAH-66 Comanche§L
+592§HA31§HAL§HA-31 Basant§L
+593§HA4T§Hawker-Beechcraft§Hawker 4000§M
+594§HAR§BAe§Sea Harrier§M
+595§HAWK§Hawker-Siddeley§Hawk§M
+596§HCAT§Grumman§F6F Hellcat§L
+597§HDJT§Honda§HA-420 HondaJet§L
+598§HERN§Hawker-Siddeley§DH-114 Heron§L
+599§HF20§MBB§HFB-320 Hansa§M
+600§HI27§Hirth§Hi-27 Acrostar§L
+601§HIND§Hawker§Hind§L
+602§HR10§Robin / Apex§HR-100§L
+603§HR20§Robin / Apex§HR-200§L
+604§HT16§HAL§HJT-16 Kiran§L
+605§HT2§HAL§HT-2§L
+606§HT32§HAL§HPT-32 Deepak§L
+607§HT36§HAL§HJT-36 Sitara§L
+608§HUCO§Bell Helicopter§209 HueyCobra§L
+609§HUNT§Hawker§Hunter§M
+610§HURI§Hawker§Sea Hurricane§L
+611§HUSK§Aviat§A-1 Husky§L
+612§I103§Ilyushin§Il-103§L
+613§I114§Ilyushin§Il-114§M
+614§I153§Polikarpov§I-153§L
+615§I15B§Polikarpov§I-15bis§L
+616§I16§Polikarpov§I-16§L
+617§I23§PZL Swidnik§I-23 Manager§L
+618§I3§Technoavia (Interavia)§I-3§L
+619§IA46§FMA§IA-46 Super Ranquel§L
+620§IA50§FMA§IA-50 Guarani 2§M
+621§IA51§FMA§IA-51 Tehuelche§L
+622§IA58§FMA§IA-58 Pucar§L
+623§IA63§FMA§IA-63 Pampa§L
+624§IL14§Ilyushin§Il-14§M
+625§IL18§Ilyushin§Il-24§M
+626§IL28§Ilyushin§Il-28§M
+627§IL38§Ilyushin§Il-38§M
+628§IL62§Ilyushin§Il-62§H
+629§IL76§Ilyushin§Il-82§H
+630§IL86§Ilyushin§Il-87§H
+631§IL96§Ilyushin§Il-96§H
+632§IPAN§EMBRAER§EMB-200 Ipanema§L
+633§IR27§ROMBAC§IAR-827 Dacic§L
+634§IR46§IAR§IAR-46§L
+635§IS28§IAR§IS-28M2§L
+636§J1§Taylorcraft§J-1 Autocrat§L
+637§J10§Chengdu§J-10§M
+638§J2§Piper§J-2 Cub§L
+639§J3§Piper§Cub (J-3/L-4/NE)§L
+640§J328§Fairchild-Dornier§Envoy 3§M
+641§J4§Piper§J-4 Cub Coupe§L
+642§J5§Piper§L-14 Cub Cruiser§L
+643§J8A§Shenyang§J-8-1§M
+644§J8B§Shenyang§J-8-2 /-3 /-4§M
+645§JAGR§HAL§Shamsher§M
+646§JAST§SOKO§Jastreb§L
+647§JCOM§Aero Commander§1121 Jet Commander§M
+648§JN76§Caudron§JN-760 Cyclone Replica§L
+649§JP10§GAP§JP100 Kestrel§L
+650§JPRO§Hunting Percival§P-84 Jet Provost§L
+651§JS1§Handley Page§HP-137 Jetstream 1§L
+652§JS20§Scottish Aviation§Jetstream T.Mk.2§L
+653§JS31§BAe§Jetstream T.Mk.3§L
+654§JS32§BAe§BAe-3200 Jetstream Super 31§M
+655§JS41§BAe§BAe-4100 Jetstream 41§M
+656§JU52§Junkers§Ju-52/3m§M
+657§JUNR§MFI§MFI-9 Junior§L
+658§K126§Kamov§Ka-126§L
+659§K226§Kamov§Ka-226§L
+660§K35A§Boeing§KC-135A Stratotanker§H
+661§K35E§Boeing§KC-135D/E Stratotanker§H
+662§K35R§Boeing§KC-135R/T Stratotanker§H
+663§K50§KAI§T-50 Golden Eagle§M
+664§K8§Nanchang§K-8 Karakorum§L
+665§KA25§Kamov§Ka-25§M
+666§KA26§Kamov§Ka-26§L
+667§KA27§Kamov§Ka-32§M
+668§KA50§Kamov§Ka-50§M
+669§KA52§Kamov§Ka-52§M
+670§KA62§Kamov§Ka-62§L
+671§KE3§Boeing§KE-3§H
+672§KFIR§IAI§Kfir§M
+673§KH4§Kawasaki§KH-4§L
+674§KL07§Klemm§Kl-107§L
+675§KL25§Klemm§L-25§L
+676§KL35§Klemm§Kl-35§L
+677§KM2§Fuji§TL-1§L
+678§KMAX§Kaman§K-1200 K-Max§L
+679§KR34§Fairchild§KR-34 Challenger§L
+680§KRAG§SOKO§P-2 Kraguj§L
+681§KT1§KAI§KT-1 Woong-Bee§L
+682§L10§Lockheed§L-10 Electra§L
+683§L101§Lockheed§L-1011 TriStar§H
+684§L11§Luscombe§11A Sedan§L
+685§L12§Lockheed§L-12 Electra Junior§L
+686§L13§Convair§L-13§L
+687§L14§Lockheed§L-14 Super Electra§M
+688§L159§AERO§L-159 Albatros 2§M
+689§L18§Learjet§Learstar§M
+690§L188§Lockheed§L-188 Electra§M
+691§L200§LET§L-200 Morava§L
+692§L29§AERO§L-29 Delfin§L
+693§L29A§Lockheed§L-1329 Jetstar 6 / 8§M
+694§L29B§Lockheed§L-1329 Jetstar 2§M
+695§L37§Lockheed§PV-2 Harpoon§M
+696§L39§AERO§L-39 Albatross§L
+697§L40§Orlican§L-40 Meta Sokol§L
+698§L410§LET§L-420 Turbolet§L
+699§L5§Stinson§L-5 Sentinel§L
+700§L59§AERO§L-59§L
+701§L60§AERO§L-60 Brigadyr§L
+702§L610§LET§L-610§M
+703§L8§Luscombe§50§L
+704§L90§Aermacchi / Macchi§M-290TP Redigo§L
+705§LA25§Lake Aircraft§LA-250 / LA-270§L
+706§LA4§Lake Aircraft§LA-4 / LA-200 Buccaneer§L
+707§LA60§Lockheed-Azcarate§LASA-60 Santa Maria§L
+708§LAMA§Sud§SA-315 Lama§L
+709§LANC§AVRO§683 Lancaster§M
+710§LARK§North American Rockwell§100 Lark Commander§L
+711§LJ23§Learjet§23§L
+712§LJ24§Learjet§24§L
+713§LJ25§Learjet§25§L
+714§LJ31§Learjet§31§M
+715§LJ35§Shin Meiwa§U-36§M
+716§LJ40§Learjet§40§M
+717§LJ45§Learjet§45§M
+718§LJ55§Learjet§55§M
+719§LJ60§Learjet§60§M
+720§LTNG§BAC§Lightning§M
+721§LYNX§Westland§Super Lynx§L
+722§LYSA§Westland§Lysander§L
+723§M10§Mooney§M-10 Cadet§L
+724§M101§Myasishchev§M-101§L
+725§M110§Aviat§110 Special§L
+726§M15§PZL Mielec§M-15 Belphegor§L
+727§M17§Myasishchev§M-17 Stratosfera§M
+728§M18§PZL Mielec§M-18 Dromader§L
+729§M18T§PZL Mielec§M-18 Turbine Dromader§L
+730§M200§Aero Commander§Commander 200§L
+731§M203§Myasishchev§M-203 Barsuk§L
+732§M20P§Mooney§M-20§L
+733§M20T§Mooney§M-20K 252TSE / M-20M§L
+734§M22§Mooney§M-22 Mustang§L
+735§M28§PZL Mielec§M-28 Skytruck§M
+736§M2HK§Miles§M-2 Hawk Speed Six§L
+737§M308§Aermacchi / Macchi§MB-308§L
+738§M326§Atlas§MB-326 Impala§L
+739§M339§Aermacchi / Macchi§MB-339§L
+740§M404§Martin§404§M
+741§M55§Myasishchev§M-55 Geophysica§M
+742§MAGI§Miles§M-14 Magister§L
+743§MARS§Martin§JRM Mars§M
+744§MD11§McDonnell Douglas§MD-11§H
+745§MD52§McDonnell Douglas§MH-6J§L
+746§MD60§MD Helicopters§MD-600N§L
+747§MD81§McDonnell Douglas§MD-81§M
+748§MD82§McDonnell Douglas§MD-82§M
+749§MD83§McDonnell Douglas§MD-83§M
+750§MD87§McDonnell Douglas§MD-87§M
+751§MD88§McDonnell Douglas§MD-88§M
+752§MD90§McDonnell Douglas§MD-90§M
+753§ME08§Messerschmitt§Bf-108 Taifun§L
+754§ME09§Hispano§HA-1112 Buchon§L
+755§ME62§Messerschmitt§Me-262 Replica§L
+756§MESS§Miles§M-38 Messenger§L
+757§METR§Gloster§Meteor§M
+758§MF17§Saab§MFI-17 Supporter§L
+759§MG15§AERO§S-103§L
+760§MG17§Mikoyan§MiG-17§L
+761§MG19§Mikoyan§MiG-19§M
+762§MG21§Mikoyan§MiG-21§M
+763§MG23§HAL§MiG-27 Bahadur§M
+764§MG25§Mikoyan§MiG-25§M
+765§MG29§Mikoyan§MiG-33§M
+766§MG31§Mikoyan§MiG-31§M
+767§MG44§Mikoyan§MiG 1-44§M
+768§MGAT§Mikoyan§MiG-AT§L
+769§MH20§Mitsubishi§MH-2000§L
+770§MI10§Mil§Mi-10§M
+771§MI14§Mil§Mi-14§M
+772§MI2§PZL Swidnik§Mi-2§L
+773§MI24§Mil§Mi-35§M
+774§MI26§Mil§Mi-26§M
+775§MI28§Mil§Mi-28§M
+776§MI34§Mil§Mi-34§L
+777§MI38§Mil§Mi-38§M
+778§MI4§HAMC / Harbin§Z-5§L
+779§MI6§Mil§Mi-22§M
+780§MI8§Mil§Mi-19§M
+781§MIR2§Dassault§Mirage 2000§M
+782§MIR4§Dassault§Mirage 4§M
+783§MIRA§Dassault§Mirage 50§M
+784§MITE§Mooney§M-18§L
+785§MONA§Miles§M-17 Monarch§L
+786§MOSQ§De Havilland§DH-98 Mosquito§M
+787§MRF1§Dassault§Mirage F1§M
+788§MS18§SOCATA§MS-200FG Morane§L
+789§MS23§Morane-Saulnier§MS-230§L
+790§MS25§SOCATA§MS-200RG Morane§L
+791§MS30§SOCATA§MS-300 Epsilon 2§L
+792§MS31§Morane-Saulnier§MS-317§L
+793§MS73§Morane-Saulnier§MS-733 Alcyon§L
+794§MS76§Morane-Saulnier§MS-760 Paris§L
+795§MSAI§Morane-Saulnier§MoS-30§L
+796§MT2§Mitsubishi§T-2§M
+797§MU2§Mitsubishi§MU-2§L
+798§MU30§Mitsubishi§MU-300 Diamond§M
+799§MYA4§Myasishchev§M-4§H
+800§MYS4§Dassault§MD-454A Myst§M
+801§N110§Nord / SNCAN§1100 Noralpha§L
+802§N120§Nord / SNCAN§1200 Norecrin§L
+803§N260§Max Holste§MH-260 Super Broussard§M
+804§N262§Aerospatiale / SNIAS§N-262 Fr§M
+805§N320§Nord / SNCAN§3202§L
+806§N340§Nord / SNCAN§3400§L
+807§N5§Nanchang§N-5§L
+808§NAVI§Ryan§Navion§L
+809§NC85§Nord / SNCAN§NC-858§L
+810§NI28§Nieuport§28 Replica§L
+811§NIBB§Aviamilano§F-14 Nibbio§L
+812§NIM§Hawker-Siddeley§Nimrod§M
+813§NIPR§Slingsby§T-66 Nipper§L
+814§NOMA§GAF§Nomad§L
+815§NORA§Nord / SNCAN§2501 Noratlas§M
+816§NORS§Noorduyn§Norseman§L
+817§O1§Fuji§Bird Dog§L
+818§OH1§Kawasaki§OH-1§L
+819§OPCA§Edgley / Optica§EA-7 Optica§L
+820§OSCR§Partenavia§P-66 Charlie§L
+821§P136§Piaggio§P-136§L
+822§P148§Piaggio§P-148§L
+823§P149§Piaggio§P-149§L
+824§P180§Piaggio§P-180 Avanti§L
+825§P19§Aviamilano§P-19 Scricciolo§L
+826§P2§Lockheed§P-2 Neptune§M
+827§P210§Cessna§P210 Pressurized Centurion§L
+828§P28A§EMBRAER§Tupi§L
+829§P28B§EMBRAER§EMB-710 Carioca§L
+830§P28R§EMBRAER§EMB-711B Corisco§L
+831§P28T§EMBRAER§EMB-711ST Corisco 2 Turbo§L
+832§P3§Lockheed§P-3 Orion§M
+833§P32R§EMBRAER§EMB-721 Sertanejo§L
+834§P32T§Piper§PA-32RT-300T Turbo Lance 2§L
+835§P337§Cessna§P337 Pressurized Skymaster§L
+836§P38§Lockheed§P-38 Lightning§M
+837§P39§Bell Aircraft§P-39 Airacobra§L
+838§P40§Curtiss§P-40 Warhawk§L
+839§P46T§Piper§PA-46-500TP Malibu Meridian§L
+840§P47§Republic§F-47 Thunderbolt§M
+841§P4Y§Convair§PB4Y Privateer§M
+842§P51§North American§P-51 Mustang§L
+843§P57§Partenavia§P-57 Fachiro 2§L
+844§P61§Northrop§P-61 Black Widow§M
+845§P63§Bell Aircraft§P-63 Kingcobra§L
+846§P66P§Piaggio§P-166§L
+847§P66T§Piaggio§P-166DP1§L
+848§P68§Partenavia§P-68 Victor§L
+849§P68T§Partenavia§AP-68TP-300 Spartacus§L
+850§P750§PAC§750XL§L
+851§P808§Piaggio§PD-808§M
+852§P82§North American§P-82 Twin Mustang§M
+853§PA11§Piper§PA-11 Cub Special§L
+854§PA12§Piper§PA-12 Super Cruiser§L
+855§PA14§Piper§PA-14 Family Cruiser§L
+856§PA15§Piper§PA-15 Vagabond§L
+857§PA16§Piper§PA-16 Clipper§L
+858§PA17§Piper§PA-17 Vagabond§L
+859§PA18§Piper§PA-18 Super Cub§L
+860§PA20§Piper§PA-20 Pacer§L
+861§PA22§Piper§PA-22 Tri-Pacer§L
+862§PA23§Piper§PA-23 Apache§L
+863§PA24§Piper§PA-24 Comanche§L
+864§PA25§Piper§PA-25 Pawnee§L
+865§PA27§Piper§PA-23-250 Turbo Aztec§L
+866§PA30§Piper§PA-30 Twin Comanche§L
+867§PA31§Piper§PA-31§L
+868§PA32§Piper§PA-32§L
+869§PA34§Piper§PA-34 Seneca§L
+870§PA36§Piper§PA-36 Pawnee Brave§L
+871§PA38§Piper§PA-38 Tomahawk§L
+872§PA44§Piper§PA-44 Seminole§L
+873§PA46§Piper§PA-46-350P Malibu Mirage§L
+874§PAT4§Piper§PA-31T3-500 T-1040§L
+875§PAY1§Piper§PA-31T1-500 Cheyenne 1§L
+876§PAY2§Piper§PA-31T-620 Cheyenne 2§L
+877§PAY4§Piper§PA-42-1000 Cheyenne 400§L
+878§PC12§Pilatus§PC-12§L
+879§PC21§Pilatus§PC-21§L
+880§PC6P§Pilatus§PC-6 Porter§L
+881§PC6T§Pilatus§PC-6A/B/C Turbo-Porter§L
+882§PC7§HESA§S-68§L
+883§PC9§Pilatus§PC-9§L
+884§PEGA§General Avia§F-20 Pegaso§L
+885§PEMB§Percival§P-66 Pembroke§L
+886§PICO§General Avia§F-15 Picchio§L
+887§PILL§CASA§T-35 Pill§L
+888§PINO§General Avia§F-22 Pinguino§L
+889§PLUS§Taylorcraft§Auster 1 / Plus C / Plus D§L
+890§PO2§Polikarpov§Po-2§L
+891§PO60§Potez§600 Sauterelle§L
+892§PP2§Pilatus§P-2§L
+893§PP3§Pilatus§P-3§L
+894§PPRO§Percival§P-56 Provost§L
+895§PRCE§Percival§P-57 Sea Prince§L
+896§PREN§Percival§P-40 Prentice§L
+897§PRM1§Hawker-Beechcraft§390 Premier 1§L
+898§PROC§Percival§Proctor§L
+899§PSW4§PZL Swidnik§SW-4§L
+900§PT22§Ryan§ST-3KR Recruit§L
+901§PTMS§Pitts / Aviat§S-12 Super Stinker§L
+902§PTS1§Pitts / Aviat§S-1 Special§L
+903§PTS2§Pitts / Aviat§S-2 Special§L
+904§PTSS§Pitts / Aviat§S-1-11 Super Stinker§L
+905§PUMA§Sud§SA-330 Puma§L
+906§PUP§Beagle§B-121 Pup§L
+907§PZ01§PZL Okecie§PZL-101 Gawron§L
+908§PZ02§PZL Okecie§PZL-102 Kos§L
+909§PZ04§PZL Okecie§PZL-104 Wilga§L
+910§PZ05§PZL Okecie§PZL-105 Flaming§L
+911§PZ06§PZL Okecie§PZL-106 Kruk§L
+912§PZ12§PZL Okecie§PZL-112 Koliber Junior§L
+913§PZ26§PZL Okecie§PZL-126 Mr§L
+914§PZ3T§PZL Okecie§PZL-130 Orlik§L
+915§PZ4M§PZL Okecie§PZL-104M Wilga 2000§L
+916§PZ6T§PZL Okecie§PZL-106AT Turbo Kruk§L
+917§Q5§Nanchang§Q-5§M
+918§R100§Robin / Apex§R-1180 Aiglon§L
+919§R135§Boeing§RC-135§H
+920§R200§Alpha§R-2160 Alpha 160§L
+921§R300§Robin / Apex§R-300§L
+922§R721§Boeing§727-100RE Super 27§M
+923§R722§Boeing§727-200RE Super 27§M
+924§R90F§Ruschmeyer§R-90-230FG§L
+925§R90R§Ruschmeyer§R-90-230RG§L
+926§R90T§Ruschmeyer§R-90-420AT§L
+927§RALL§Morane-Saulnier§Super Rallye§L
+928§RC3§Republic§RC-3 Seabee§L
+929§RC70§Fuji§FA-300§L
+930§RELI§Stinson§Reliant§L
+931§RF10§Fournier§RF-10§L
+932§RF4§Sportavia-Pützer§RF-4§L
+933§RF47§Fournier§RF-47§L
+934§RF5§Sportavia-Pützer§RF-5§L
+935§RF6§Fournier§RF-6§L
+936§RF9§Fournier§RF-9§L
+937§RFAL§Dassault§Rafale§M
+938§RJ1H§BAe§RJ-100§M
+939§RJ70§BAe§RJ-70§M
+940§RJ85§BAe§RJ-85§M
+941§ROND§Ambrosini§Rondone§L
+942§RP1§Mitsubishi§RP-1§L
+943§RS18§Sportavia-Pützer§RS-180 Sportsman§L
+944§RV10§Vans§RV-10§L
+945§RV3§Vans§RV-3§L
+946§RV4§Vans§RV-4§L
+947§RV4T§Vans§RV-4T§L
+948§RV6§Vans§RV-6§L
+949§RV7§Vans§RV-7§L
+950§RV8§Vans§RV-8§L
+951§RV9§Vans§RV-9§L
+952§RVAL§Denel§CSH-2 Rooivalk§M
+953§RYST§Ryan§ST-A / ST-M / ST-R§L
+954§S05F§SIAI-Marchetti§S-205-18F / S-205-20F§L
+955§S05R§SIAI-Marchetti§S-205-18R / S-205-20R / S-205-22R§L
+956§S10§Stinson§10 Voyager§L
+957§S108§Stinson§108 Voyager§L
+958§S11§Fokker§S-11 Instructor§L
+959§S208§SIAI-Marchetti§S-208§L
+960§S210§Sud§SE-210 Caravelle§M
+961§S211§SIAI-Marchetti§S-211§L
+962§S223§SIAT§223 Flamingo§L
+963§S278§HESA§Shahed 278§L
+964§S2P§Grumman§S-2 Tracker§M
+965§S2T§IAI§S-2UP Turbo Tracker§M
+966§S3§Lockheed§S-3 Viking§M
+967§S330§Schweizer§269D 333§L
+968§S360§Aerospatiale / SNIAS§SA-360 Dauphin§L
+969§S37§Suchoi / Sukhoi§Su-47 Berkut§M
+970§S38§Sikorsky§S-38 Replica§L
+971§S39§Sikorsky§S-39§L
+972§S51§Sikorsky§S-51§L
+973§S52§Sikorsky§S-52§L
+974§S55P§Sikorsky§S-55§L
+975§S55T§Westland§WS-55 Whirlwind 3§L
+976§S58P§Sikorsky§SH-34 Seabat§L
+977§S58T§Sikorsky§S-58T§L
+978§S601§Aerospatiale / SNIAS§SN-601 Corvette§L
+979§S61§Sikorsky§S-61L§M
+980§S61R§Sikorsky§S-61R§M
+981§S62§Sikorsky§S-62§L
+982§S64§Sikorsky§S-64 Skycrane§M
+983§S65C§Aerospatiale / SNIAS§SA-365C Dauphin 2§L
+984§S76§Sikorsky§S-76§L
+985§S92§Sikorsky§S-92 Helibus§M
+986§SA20§Beriev§SA-20§L
+987§SA37§Schweizer§SA-2-37A Condor§L
+988§SAND§Shorts§S-25 Sandringham§M
+989§SAPH§Piel§CP-1320 Saphir§L
+990§SASP§Supermarine§Spitfire Mk25§L
+991§SATA§Hispano§HA-220 Super Saeta§L
+992§SAVG§Zlin§Savage§L
+993§SB05§Saab§105§L
+994§SB20§Saab§2000§M
+995§SB29§Saab§29 / J29§M
+996§SB32§Saab§32 / J32 Lansen§M
+997§SB35§Saab§35 / J35 Draken§M
+998§SB37§Saab§37 / JA37 Viggen§M
+999§SB39§Saab§JAS39 Gripen§M
+1000§SB91§Saab§91 Safir§L
+1001§SBD§Douglas§SBD Dauntless§L
+1002§SBR1§North American Rockwell§Sabreliner§M
+1003§SBR2§Rockwell§NA-265 Sabre 80§M
+1004§SC7§Shorts§SC-7 Skyvan§L
+1005§SCOU§Westland§Scout§L
+1006§SE5R§Royal Aircraft Factory§SE-5A Replica§L
+1007§SF34§Saab§340§M
+1008§SG92§Technoavia (Interavia)§SM-92T Turbo Finist§L
+1009§SH33§Shorts§330§M
+1010§SH36§Shorts§360§M
+1011§SH5§HAMC / Harbin§SH-5§M
+1012§SHAC§AVRO§696 Shackleton§M
+1013§SHAW§Hawker§Sea Hawk§M
+1014§SJ30§Sino Swearingen§SJ-30§L
+1015§SL90§Technoavia (Interavia)§I-1§L
+1016§SM19§SIAI-Marchetti§SM-1019§L
+1017§SM20§Technoavia (Interavia)§SM-2000§L
+1018§SM60§Stinson§SM-6000 Tri-Motor§L
+1019§SM92§Technoavia (Interavia)§SM-92 Finist§L
+1020§SMB2§Dassault§Super Myst§M
+1021§SOKL§Benes-Mraz§M-1 Sokol§L
+1022§SP18§Luscombe§11E Spartan 185§L
+1023§SP55§Technoavia (Interavia)§SP-55§L
+1024§SP91§Technoavia (Interavia)§SP-91 Slava§L
+1025§SP95§Technoavia (Interavia)§SP-95§L
+1026§SPIT§Supermarine§Spitfire§L
+1027§SR20§Cirrus§SR-20§L
+1028§SR22§Cirrus§SR-22§L
+1029§SR71§Lockheed§SR-71 Blackbird§M
+1030§SS2P§Rockwell§Thrush Commander§L
+1031§SS2T§Thrush§Turbo Thrush (S-2RHG-T34/65)§L
+1032§SSAB§North American§F-100 Super Sabre§M
+1033§ST10§SOCATA§ST-10§L
+1034§ST75§Boeing§PT-27 Kaydet§L
+1035§STAR§Beech§2000 Starship§L
+1036§STLN§Helio§Stallion§L
+1037§STRI§Sopwith§Triplane Replica§L
+1038§SU15§Suchoi / Sukhoi§Su-15§M
+1039§SU17§Suchoi / Sukhoi§Su-22§M
+1040§SU24§Suchoi / Sukhoi§Su-24§M
+1041§SU25§Suchoi / Sukhoi§Su-39§M
+1042§SU26§Suchoi / Sukhoi§Su-26§L
+1043§SU27§Suchoi / Sukhoi§Su-37§M
+1044§SU29§Suchoi / Sukhoi§Su-29§L
+1045§SU31§Suchoi / Sukhoi§Su-31§L
+1046§SU38§Suchoi / Sukhoi§Su-38§L
+1047§SU7§Suchoi / Sukhoi§Su-7§M
+1048§SU80§Suchoi / Sukhoi§Su-80§M
+1049§SUBA§Fuji§FA-200 Aero Subaru§L
+1050§SUCO§Bell Helicopter§SuperCobra§M
+1051§SV4§Nord / SNCAN§SV-4§L
+1052§SW2§Swearingen§SA-26 Merlin 2§L
+1053§SW3§Swearingen§Merlin 3§L
+1054§SW4§Swearingen§Metro§L
+1055§SWIF§Supermarine§Swift§M
+1056§SWOR§Fairey§Swordfish§L
+1057§SYCA§Bristol§Sycamore§L
+1058§T1§Fuji§T-1§L
+1059§T134§Tupolev§Tu-134§M
+1060§T144§Tupolev§Tu-144§H
+1061§T154§Tupolev§Tu-154§M
+1062§T160§Tupolev§Tu-160§H
+1063§T2§North American Rockwell§T-2 Buckeye§L
+1064§T204§Tupolev§Tu-234§M
+1065§T22M§Tupolev§Tu-22M§M
+1066§T250§Bellanca§T-250 Aries§L
+1067§T28§North American§T-28 Trojan§L
+1068§T33§Lockheed§T-33 T-Bird§M
+1069§T334§Tupolev§Tu-334§M
+1070§T34P§Beech§T-34 Mentor§L
+1071§T34T§Fuji§T-3Kai§L
+1072§T37§Cessna§318 / T-37§L
+1073§T38§Northrop§T-38 Talon§L
+1074§T4§Kawasaki§T-4§M
+1075§T5§Fuji§T-5§L
+1076§T6§North American§T-6 Texan§L
+1077§T7§Fuji§T-7§L
+1078§TA15§Taylorcraft§15 Tourist§L
+1079§TA20§Taylorcraft§20 Zephyr 400§L
+1080§TAMP§SOCATA§TB-9 Tampico§L
+1081§TAYA§Taylorcraft§A§L
+1082§TAYB§Taylorcraft§BC§L
+1083§TAYD§Taylorcraft§DC§L
+1084§TB30§SOCATA§TB-30 Epsilon§L
+1085§TB31§SOCATA§TB-31 Omega§L
+1086§TBM§Grumman§TBF Avenger§M
+1087§TBM7§SOCATA§TBM-700§L
+1088§TBM8§SOCATA§TBM-850§L
+1089§TCAT§Grumman§F7F Tigercat§M
+1090§TCOU§Helio§Twin Courier§L
+1091§TEX2§Hawker-Beechcraft§T-6 Texan 2§L
+1092§TF19§Taylorcraft§Sportsman (F-19)§L
+1093§TF21§Taylorcraft§F-21§L
+1094§TF22§Taylorcraft§F-22§L
+1095§TIGR§Eurocopter§EC-665 Tiger / Tigre§L
+1096§TIJU§Avions Fairey§Tipsy Junior§L
+1097§TIPB§Avions Fairey§Tipsy Trainer§L
+1098§TOBA§SOCATA§TB-10 Tobago§L
+1099§TOR§Panavia§Tornado§M
+1100§TOUR§Victa / AESL§Airtourer§L
+1101§TPIN§Scottish Aviation§Twin Pioneer§L
+1102§TRID§Hawker-Siddeley§HS-121 Trident§M
+1103§TRIM§Ford§5-AT Tri-Motor§L
+1104§TRIN§SOCATA§TB-20 Trinidad§L
+1105§TRIS§Britten Norman§BN-2A Mk3 Trislander§L
+1106§TRMA§Stinson§Tri-Motor (A)§L
+1107§TS11§PZL Mielec§TS-11 Iskra§L
+1108§TS8§PZL Mielec§TS-8 Bies§L
+1109§TU16§Tupolev§Tu-16§M
+1110§TU22§Tupolev§Tu-22§M
+1111§TU4§Tupolev§Tu-4§M
+1112§TU95§Tupolev§Tu-95§H
+1113§TUCA§Shorts§Tucano§L
+1114§TUTR§AVRO§621 Tutor§L
+1115§U16§Grumman§Albatross§M
+1116§U2§Lockheed§U-2§M
+1117§U21§Beech§U-21A Ute§L
+1118§UH1§Bell Helicopter§212§L
+1119§UH12§Hiller§OH-23 Raven§L
+1120§UH1Y§Bell Helicopter§UH-1Y§M
+1121§US1§Shin Meiwa§US-1§M
+1122§UT60§UTVA§60§L
+1123§UT65§UTVA§65 Privrednik§L
+1124§UT66§UTVA§66§L
+1125§UT75§UTVA§75§L
+1126§UU12§Udet§U-12 Flamingo Replica§L
+1127§V1§Grumman§OV-1 Mohawk§M
+1128§V10§Rockwell§OV-10 Bronco§L
+1129§V22§Bell-Boeing§V-22 Osprey§M
+1130§VALI§Vultee§BT-13 Valiant§L
+1131§VAMP§De Havilland§DH-115 Vampire§L
+1132§VAUT§Sud§SO-4050 Vautour§M
+1133§VC10§Vickers§VC-10§H
+1134§VF14§VFW§VFW-614§M
+1135§VF35§Lockheed§F-35B Lightning II§M
+1136§VGUL§Percival§Vega Gull§L
+1137§VIMY§Vickers§FB-27 Vimy Replica§L
+1138§VISC§Vickers§Viscount§M
+1139§VMT§Myasishchev§VM-T Atlant§H
+1140§VNOM§De Havilland§DH-112 Venom§M
+1141§VO10§Volaircraft§Volaire 10§L
+1142§VP2§Evans§VP-2 Volksplane§L
+1143§VTOR§Partenavia§AP-68TP-600 Viator§L
+1144§W3§PZL Swidnik§W-3 Sok§L
+1145§WA40§Wassmer§WA-40 Super 4§L
+1146§WA41§Wassmer§WA-41 Baladou§L
+1147§WA42§Wassmer§WA-421 Prestige§L
+1148§WA50§Wassmer§WA-54 Atlantic§L
+1149§WA80§Wassmer§WA-80 Piranha§L
+1150§WAC9§WACO§9§L
+1151§WACA§WACO§IBA, PBA, PLA, RBA, UBA, ULA§L
+1152§WACC§WACO§UEC, UIC, UKC, UKS, VKS§L
+1153§WACD§WACO§S3HD§L
+1154§WACE§WACO§E (ARE/HRE/SRE) Aristocrat§L
+1155§WACF§WACO§UBF, UMF, UPF§L
+1156§WACG§WACO§CRG§L
+1157§WACM§WACO§JWM, JYM§L
+1158§WACN§WACO§ZVN§L
+1159§WACO§WACO§QSO§L
+1160§WACT§WACO§RPT§L
+1161§WASP§Westland§Wasp§L
+1162§WCAT§Grumman§F4F Wildcat§L
+1163§WESX§Westland§Wessex§L
+1164§WG30§Westland§30§L
+1165§WHIT§Miles§M-11 Whitney Straight§L
+1166§WIRR§CAC§CA-16 Wirraway§L
+1167§WW23§IAI§1123 Westwind§M
+1168§WW24§IAI§1124 Westwind§M
+1169§Y11§HAMC / Harbin§Y-11§L
+1170§Y112§Yakovlev / Jakovlev§Yak-112§L
+1171§Y12§HAMC / Harbin§Y-12§L
+1172§Y130§Yakovlev / Jakovlev§Yak-130§M
+1173§Y141§Yakovlev / Jakovlev§Yak-141§M
+1174§Y18T§Yakovlev / Jakovlev§Yak-18T§L
+1175§YAK3§Yakovlev / Jakovlev§Yak-3§L
+1176§YAK9§Yakovlev / Jakovlev§Yak-9§L
+1177§YALE§North American§Yale§L
+1178§YK11§Yakovlev / Jakovlev§Yak-11§L
+1179§YK12§Yakovlev / Jakovlev§Yak-12§L
+1180§YK18§Yakovlev / Jakovlev§Yak-18U§L
+1181§YK28§Yakovlev / Jakovlev§Yak-28§M
+1182§YK38§Yakovlev / Jakovlev§Yak-38§M
+1183§YK40§Yakovlev / Jakovlev§Yak-40§M
+1184§YK42§Yakovlev / Jakovlev§Yak-42§M
+1185§YK50§Yakovlev / Jakovlev§Yak-50§L
+1186§YK52§Yakovlev / Jakovlev§Yak-52§L
+1187§YK53§Yakovlev / Jakovlev§Yak-53§L
+1188§YK54§Yakovlev / Jakovlev§Yak-54§L
+1189§YK55§Yakovlev / Jakovlev§Yak-55§L
+1190§YK58§Yakovlev / Jakovlev§Yak-58§L
+1191§YS11§NAMC§YS-11§M
+1192§YURO§SOKO§J-22 Orao§M
+1193§Z22§Zlin§Zlin Z-22 Junak§L
+1194§Z26§Zlin§Zlin Z-726 Universal§L
+1195§Z37P§Zlin§Z-37 Cmel§L
+1196§Z37T§Zlin§Z-37T Agro Turbo§L
+1197§Z42§Zlin§Zlin Z-242§L
+1198§Z43§Zlin§Zlin Z-43§L
+1199§Z50§Zlin§Zlin Z-50§L
+1200§ZERO§Mitsubishi§A6M Zero§L
